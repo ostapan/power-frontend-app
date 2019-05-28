@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:ostapan/power-frontend-app.git",
+    "project_destination_path": "power-frontend-app",
+    "application_name": "powerFrontEnd",
+    "project_technology": "frontend-deployment",
+    "api_url": "https://api.url"
+  }
+}
